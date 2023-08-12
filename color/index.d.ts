@@ -1,0 +1,27 @@
+// THIS FILE IS AUTO GENERATED
+import { IconTree, IconType } from '../lib';
+export declare const BrandCSS3Color: IconType;
+export declare const BrandChakraUIColor: IconType;
+export declare const BrandDiscordColor: IconType;
+export declare const BrandFacebookCircledColor: IconType;
+export declare const BrandGMailColor: IconType;
+export declare const BrandGoogleColor: IconType;
+export declare const BrandGithubColor: IconType;
+export declare const BrandGithubIOcticonColor: IconType;
+export declare const BrandHTML5Color: IconType;
+export declare const BrandInstagramGradientColor: IconType;
+export declare const BrandJavaScriptColor: IconType;
+export declare const BrandLinkedInColor: IconType;
+export declare const BrandLinkedInCircledColor: IconType;
+export declare const BrandLinkedInSquareColor: IconType;
+export declare const BrandMantineColor: IconType;
+export declare const BrandNextJSColor: IconType;
+export declare const BrandOctotatColor: IconType;
+export declare const BrandReactColor: IconType;
+export declare const BrandSaweriaColor: IconType;
+export declare const BrandTailwindColor: IconType;
+export declare const BrandTrakteerColor: IconType;
+export declare const BrandTrakteerCoffeeColor: IconType;
+export declare const BrandTwitterColor: IconType;
+export declare const BrandTwitterCircledColor: IconType;
+export declare const BrandIoeriColor: IconType;
