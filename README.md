@@ -31,6 +31,25 @@ using [yarn](https://yarnpkg.com/)
 yarn add ioeri-icons@latest
 ```
 
+
+<details open>
+<summary>Getting Started</summary>
+
+## Sample:
+Then import from `ioeri-icons`:
+
+```cirru
+import { BrandTwitterX } from 'ioeri-icons'
+```
+
+```js
+<BrandTwitterX size="lg" />
+// or
+@initial size?: "xs" | "sm" | "md" | "lg" | "xl" | "xxl" | "xxxl" | (string & {}) | number | undefined
+```
+</details>
+
+
 ## Contributors
 
 <a href="https://github.com/ioeridev/ioeri/graphs/contributors">
