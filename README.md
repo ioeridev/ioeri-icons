@@ -44,7 +44,9 @@ import { BrandTwitterX } from 'ioeri-icons'
 
 ```js
 <BrandTwitterX size="lg" />
-// or
+```
+
+```cirru
 @initial size?: "xs" | "sm" | "md" | "lg" | "xl" | "xxl" | "xxxl" | (string & {}) | number | undefined
 ```
 </details>
