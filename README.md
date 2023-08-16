@@ -33,7 +33,7 @@ yarn add ioeri-icons@latest
 
 
 <details open>
-<summary>Getting Started</summary>
+<summary>Usages</summary>
 
 ## Sample:
 Then import from `ioeri-icons`:
