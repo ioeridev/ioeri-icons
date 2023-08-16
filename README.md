@@ -15,7 +15,7 @@ For "leading", pronounced /yori/, `🔊` like "iori" (spoken Yoruba).
 
 ### `Required`
 
-`*React library`
+`*React`
 
 ### Installation [ioeri-icons:](https://github.com/ioeridev/ioeri-icons)
 

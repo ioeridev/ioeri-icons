@@ -1,15 +1,19 @@
 {
   "name": "ioeri-icons",
-  "version": "1.0.1",
+  "version": "1.0.45",
   "description": "Popular brand and unpopularity icons",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "require": "./cjs/index.js",
+      "import": "./index.js",
+      "types": "./index.d.ts"
+    }
+  },
   "license": "MIT",
   "author": "Ilham Khoeri <ilkhoeri@gmail.com>",
-  "contributors": [
-    "Ilham Khoeri <ilkhoeri@gmail.com>"
-  ],
-  "main": "lib",
-  "types": "./lib/esm/index.d.ts",
-  "sideEffects": false,
   "homepage": "https://github.com/ioeridev#readme",
   "bugs": {
     "url": "https://github.com/ioeridev/ioeri-icons/issues"
@@ -32,8 +36,9 @@
     "svg",
     "design"
   ],
-  "dependencies": {},
   "peerDependencies": {
     "react": "*"
-  }
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
