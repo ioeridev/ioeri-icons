@@ -31,11 +31,11 @@ using [yarn](https://yarnpkg.com/)
 yarn add ioeri-icons@latest
 ```
 
-
 <details open>
-<summary>Usages</summary>
+<summary>Getting Started</summary>
 
-## Sample:
+## Usages:
+
 Then import from `ioeri-icons`:
 
 ```cirru
@@ -49,8 +49,8 @@ import { BrandTwitterX } from 'ioeri-icons'
 ```cirru
 @initial size?: "xs" | "sm" | "md" | "lg" | "xl" | "xxl" | "xxxl" | (string & {}) | number | undefined
 ```
-</details>
 
+</details>
 
 ## Contributors
 
